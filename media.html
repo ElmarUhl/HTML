@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens</title>
+</head>
+<body>
+    <h1>Imagem Dinâmica</h1>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/imagem-pequena.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/imagem-media.png" type="image/png">
+        <img src="imagens/imagem-grande.png" alt="imagem flexível">
+    </picture>
+
+    <h1>Reprodução de Áudio</h1>
+    <audio src="media/Nature_Nurture-Quincas_Moreira.mp3" controls autoplay></audio>
+    <audio preload="metadata" autoplay controls >
+        <source src="media/Snow_Princess-Jimena_Contreras.mp3" type="audio/mpeg">
+        <source src="media/Snow_Princess-Jimena_Contreras.ogg" type="audio/ogg">
+        <source src="media/Snow_Princess-Jimena_Contreras.wav" type="audio/wav">
+        <p>Seu navegador não possui compatibilidade com formatos de áudio.</p>
+    </audio>
+
+    <h1>Inserindo Vídeos localmente</h1>
+    <video autoplay controls loop width="560" poster="imagens/capa-video.png">
+        <!-- Não funcionam no Firefox
+            <source src="media/pexels-vasilis-karkalas-highquality3.mp4" type="video/mp4">
+            <source src="media/pexels-vasilis-karkalas-highquality-2.mp4" type="">
+            <source src="media/pexels-vasilis-karkalas.webm" type="">
+            <source src="media/pexels-vasilis-karkalas-2.mp4" type="">            
+            <source src="media/pexels-vasilis-karkalas.ogv" type="video/ogv">
+        -->
+        <source src="media/pexels-vasilis-karkalas.mp4" type="video/mp4">
+        <p>Seu navegador não tem compatibilidade com reprodução de vídeos</p>
+    </video>
+
+    <h1>Inserindo Vídeos do YouTube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qW0npfh45aY?si=yaM5gv325YFcSZtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    <h1>Inserindo Vídeos do Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/398852209?h=76a4ad8a79&loop=1&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
