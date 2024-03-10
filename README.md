@@ -6,3 +6,7 @@ HTML tutorial repository
 ## Usefull Links
 
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+[Gerador de paleta de cores](https://color.adobe.com/pt/)
+[Paletton](https://paletton.com/#uid=33g0F0ksDvKhQFNn1zmvOqf--kH)
+[Coolors](https://coolors.co/)
+
