@@ -10,3 +10,7 @@ HTML tutorial repository
 [Paletton](https://paletton.com/#uid=33g0F0ksDvKhQFNn1zmvOqf--kH)
 [Coolors](https://coolors.co/)
 
+## Plugins
+1. Web Developer: enable and disable, get information about css, cookies, forms...
+2. ColorZilla: get information about colors in webpages.
+3. Fonts Ninja: get information about webpage fonts.
