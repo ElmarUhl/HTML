@@ -10,6 +10,8 @@ HTML tutorial repository
 [Paletton](https://paletton.com/#uid=33g0F0ksDvKhQFNn1zmvOqf--kH)
 [Coolors](https://coolors.co/)
 
+[Whatfontis](https://www.whatfontis.com/)  [Fontsquirrel](https://www.fontsquirrel.com/) [Myfonts](https://www.myfonts.com/): try to find out font types inside images
+
 ## Plugins
 1. Web Developer: enable and disable, get information about css, cookies, forms...
 2. ColorZilla: get information about colors in webpages.
