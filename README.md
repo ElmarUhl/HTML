@@ -5,12 +5,20 @@ HTML tutorial repository
 
 ## Usefull Links
 
+### Colors
+
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 [Gerador de paleta de cores](https://color.adobe.com/pt/)
 [Paletton](https://paletton.com/#uid=33g0F0ksDvKhQFNn1zmvOqf--kH)
 [Coolors](https://coolors.co/)
 
+### Fonts
 [Whatfontis](https://www.whatfontis.com/)  [Fontsquirrel](https://www.fontsquirrel.com/) [Myfonts](https://www.myfonts.com/): try to find out font types inside images
+[Google Fonts](https://fonts.google.com/)
+
+### Design
+
+[MocFlow](https://mockflow.com/)
 
 ## Plugins
 1. Web Developer: enable and disable, get information about css, cookies, forms...
