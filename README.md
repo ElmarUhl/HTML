@@ -29,6 +29,10 @@ HTML tutorial repository
 
 [URL Shortener](https://bitly.com/)
 
+### SVG Icon
+
+[Flaticon](https://www.flaticon.com/) [Iconfinder](https://www.iconfinder.com/)
+
 ## Plugins
 1. Web Developer: enable and disable, get information about css, cookies, forms...
 2. ColorZilla: get information about colors in webpages.
