@@ -15,7 +15,7 @@ HTML tutorial repository
 ### Fonts
 [Whatfontis](https://www.whatfontis.com/) [Fontsquirrel](https://www.fontsquirrel.com/) [Myfonts](https://www.myfonts.com/): try to find out font types inside images
 
-[Google Fonts](https://fonts.google.com/) [DaFont](https://www.dafont.com/pt/)
+[Google Fonts](https://fonts.google.com/) [DaFont](https://www.dafont.com/pt/) [Fonts2u](https://pt.fonts2u.com/)
 
 ### Design
 
