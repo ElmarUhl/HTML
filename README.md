@@ -5,6 +5,10 @@ HTML tutorial repository
 
 ## Usefull Links
 
+### Favicon
+
+[Favicon.cc](https://www.favicon.cc/) [Favicon.io](https://favicon.io/)
+
 ### Colors
 
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
@@ -20,6 +24,10 @@ HTML tutorial repository
 ### Design
 
 [MocFlow](https://mockflow.com/)
+
+### URL
+
+[URL Shortener](https://bitly.com/)
 
 ## Plugins
 1. Web Developer: enable and disable, get information about css, cookies, forms...
