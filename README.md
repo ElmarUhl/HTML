@@ -33,7 +33,8 @@ HTML tutorial repository
 
 [Flaticon](https://www.flaticon.com/) [Iconfinder](https://www.iconfinder.com/)
 
-## Plugins
+## Firefox Plugins
 1. Web Developer: enable and disable, get information about css, cookies, forms...
 2. ColorZilla: get information about colors in webpages.
 3. Fonts Ninja: get information about webpage fonts.
+4. Window Resizer: resize windows.
