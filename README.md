@@ -46,3 +46,9 @@ HTML tutorial repository
 - Mobile: 375×667, 414×736, 360×800, 390×844
 
 A goot text about screen sizes [link](https://testsigma.com/blog/common-screen-resolutions/)
+
+## Tutorials, Courses
+1. [HTML5 e CSS - módulo 1](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=2)
+2. [HTML5 e CSS - módulo 2](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
+3. [HTML5 e CSS - módulo 3](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
+4. [HTML5 e CSS - módulo 4](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
