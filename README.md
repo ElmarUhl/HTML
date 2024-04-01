@@ -1,4 +1,4 @@
-![HTML5_Logo_128](https://github.com/ElmarUhl/HTML/assets/157088447/829b48c8-d4c2-4732-90a7-8e25a954195e)
+min-width: ![HTML5_Logo_128](https://github.com/ElmarUhl/HTML/assets/157088447/829b48c8-d4c2-4732-90a7-8e25a954195e)
 
 # HTML
 HTML tutorial repository
@@ -7,31 +7,31 @@ HTML tutorial repository
 
 ### Favicon
 
-[Favicon.cc](https://www.favicon.cc/) [Favicon.io](https://favicon.io/)
+[Favicon.cc](https://www.favicon.cc/) [Favicon.io](https://favicon.io/): online favicon editors
 
 ### Colors
 
-[HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
-[Gerador de paleta de cores](https://color.adobe.com/pt/)
-[Paletton](https://paletton.com/#uid=33g0F0ksDvKhQFNn1zmvOqf--kH)
-[Coolors](https://coolors.co/)
+[HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp): tool to visually choose a color.
+
+[Gerador de paleta de cores](https://color.adobe.com/pt/) [Paletton](https://paletton.com/#uid=33g0F0ksDvKhQFNn1zmvOqf--kH) [Coolors](https://coolors.co/): tools to generate color palletes.
 
 ### Fonts
+
 [Whatfontis](https://www.whatfontis.com/) [Fontsquirrel](https://www.fontsquirrel.com/) [Myfonts](https://www.myfonts.com/): try to find out font types inside images
 
-[Google Fonts](https://fonts.google.com/) [DaFont](https://www.dafont.com/pt/) [Fonts2u](https://pt.fonts2u.com/)
+[Google Fonts](https://fonts.google.com/) [DaFont](https://www.dafont.com/pt/) [Fonts2u](https://pt.fonts2u.com/): to get styles and download text fonts
 
 ### Design
 
-[MocFlow](https://mockflow.com/)
+[MocFlow](https://mockflow.com/): tool to design homepage and program windows.
 
 ### URL
 
-[URL Shortener](https://bitly.com/)
+[URL Shortener](https://bitly.com/): create links
 
 ### SVG Icon
 
-[Flaticon](https://www.flaticon.com/) [Iconfinder](https://www.iconfinder.com/)
+[Flaticon](https://www.flaticon.com/) [Iconfinder](https://www.iconfinder.com/): get svg icons.
 
 ## Firefox Plugins
 1. Web Developer: enable and disable, get information about css, cookies, forms...
