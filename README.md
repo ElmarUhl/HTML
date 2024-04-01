@@ -38,3 +38,11 @@ HTML tutorial repository
 2. ColorZilla: get information about colors in webpages.
 3. Fonts Ninja: get information about webpage fonts.
 4. Window Resizer: resize windows.
+
+## Screen Sizes
+
+- Desktop: 3840×2160 (4K UHD), 2560×1440 (QHD), 1920×1080 (Full HD), 1440x900 (WXGA+), 1600x900 (WXGA), 1366×768 (HD), 1280×1024, 1024×768
+- Tablet: 768×1024, 1024×768, 601×962
+- Mobile: 375×667, 414×736, 360×800, 390×844
+
+A goot text about screen sizes [link](https://testsigma.com/blog/common-screen-resolutions/)
