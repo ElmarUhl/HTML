@@ -1,7 +1,18 @@
 ![HTML5_Logo_128](https://github.com/ElmarUhl/HTML/assets/157088447/829b48c8-d4c2-4732-90a7-8e25a954195e)
 
 # HTML
-HTML tutorial repository
+
+The internet is filled with visually engaging and interactive websites, but have you ever wondered how these sites are created?  Two fundamental technologies are behind most webpages: HTML5 and CSS.
+
+**HTML5:** Hypertext Markup Language provides the structure and content for a web page.  Imagine it as the skeleton of a building.  HTML5 uses tags to define different parts of a webpage, like headings, paragraphs, images, and forms.  These tags tell the web browser how to display the content.  For example, the \<h1> tag defines a level 1 heading, while the <p> tag defines a paragraph.
+
+**CSS:** Cascading Style Sheets breathe life into the HTML skeleton.  CSS is used to style the webpage, controlling its visual appearance.  Just like applying wallpaper and paint to a building, CSS allows you to define fonts, colors, layouts, backgrounds, and more.  This is what makes a webpage visually appealing and user-friendly.
+
+Think of HTML5 and CSS as a team.  HTML5 provides the foundation, and CSS adds the personality.  While they can work independently, they work best together to create a well-structured and stylish website.
+
+**Why Learn HTML5 and CSS?**
+
+Learning these foundational languages empowers you to understand and even create websites.  Whether you're a designer or developer, having this knowledge can be a valuable asset.  Even basic understanding allows you to customize your personal website or blog.
 
 ## Usefull Links
 
