@@ -29,9 +29,19 @@ HTML tutorial repository
 
 [URL Shortener](https://bitly.com/): create links
 
-### SVG Icon
+### Icons and Emojis
 
 [Flaticon](https://www.flaticon.com/) [Iconfinder](https://www.iconfinder.com/): get svg icons.
+
+[IconArchive](https://www.iconarchive.com/)
+[Emojipedia](https://emojipedia.org/)
+
+### Images
+[Pexels](https://www.pexels.com/pt-br/) [PixaBay](https://pixabay.com/pt/) [Unsplash](https://unsplash.com/pt-br)
+
+### Music
+[Bensound](https://www.bensound.com/) [Free Music Archive](https://freemusicarchive.org/music/BoxCat_Games)
+
 
 ## Firefox Plugins
 1. Web Developer: enable and disable, get information about css, cookies, forms...
