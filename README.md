@@ -73,6 +73,7 @@ A goot text about screen sizes [link](https://testsigma.com/blog/common-screen-r
 2. [HTML5 e CSS - módulo 2](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 3. [HTML5 e CSS - módulo 3](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
 4. [HTML5 e CSS - módulo 4](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
+5. [HTML5 e CSS - módulo 5](https://www.youtube.com/watch?v=rqvn_c2n9Eg&list=PLHz_AreHm4dn1bAtIJWFrugl5z2Ej_52d)
 
 ## HTML and CSS Reference
 
